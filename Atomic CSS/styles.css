@@ -1,0 +1,68 @@
+/* Atomic CSS */
+.bg-dark {
+    background-color: #333;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.p-4 {
+    padding: 16px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.main-nav {
+    margin-right: auto;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-item {
+    margin-right: 16px;
+}
+
+.bg-light {
+    background-color: #f5f5f5;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.mb-4 {
+    margin-bottom: 16px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.p-2 {
+    padding: 8px;
+}
