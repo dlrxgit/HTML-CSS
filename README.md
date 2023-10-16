@@ -6,7 +6,7 @@
 
 ## Projects
 
-1. **BEM Methodology** - 🧩 An example of using the BEM (Block-Element-Modifier) methodology in web development. Explore this project to understand how to efficiently organize CSS classes using BEM.
+1. **BEM Methodology** - [Project Link](https://github.com/dlrxgit/HTML-CSS/edit/main/BEM) - 🧩 An example of using the BEM (Block-Element-Modifier) methodology in web development. Explore this project to understand how to efficiently organize CSS classes using BEM.
 
 ## How to Use
 
